@@ -1,0 +1,17 @@
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/util/EncoderDecoder.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/processors/viewItemsProcessor.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/processors/addItemProcessor.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/dto/BaseDto.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/parser/ParsedUrl.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/dto/ListingDto.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/demo/ListingDto.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/dto/ResponseBuilder.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/processors/Processor.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/processors/deleteItemProcessor.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/dto/ResponseDto.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/dao/ListingDao.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/dao/MongoDao.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/demo/SparkDemo.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/demo/WebSocketHandler.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/mongo/MongoConnection.java
+/home/emanuelf/Desktop/final-project-parradise-main/server/src/main/java/Mongo/dao/DataAccessObject.java
